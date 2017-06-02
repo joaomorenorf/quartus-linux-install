@@ -27,7 +27,7 @@ Install i386 support for Debian amd64:
     # dpkg --add-architecture i386
     # apt-get update
     # apt-get install libc6:i386
-    # apt-get install libpng12-0:i386
+    # apt-get install libpng16-16:i386
     # apt-get install libfreetype6:i386
     # apt-get install libsm6:i386
     # apt-get install libxrender1:i386
